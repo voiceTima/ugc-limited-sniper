@@ -44,6 +44,9 @@ You can also add additional item IDs by adding them to the ids array and separat
 
 **Don't forget to save the file before running the program.**
 
+## Downloading 
+
+You can get the compiled binary from the [releases page](/releases/tag/windows-release).
 ## Ratelimits
 
 The Roblox API currently limits API requests to somewhere around `~ 20 requests / min / account`. This means adding more accounts will add longer intervals between checks in order to avoid hitting the ratelimit. This still needs more testing.
